@@ -207,8 +207,9 @@ special instructions.
 <p>
   <ul>
     <li>The room is wheelchair / scooter accessible.</li>
-    <!-- <li>Accessible restrooms are available.</li> -->
+    <li>Accessible restrooms are available.</li>
   </ul>
+Further details are available on the <a href="https://www.accessable.co.uk/king-s-college-london/waterloo-campus/access-guides/james-clerk-maxwell-building">AccessAble page</a> for the James Clerk Maxwell Building.
 {% endif %}
 </p>
 <p>We are dedicated to providing a positive and accessible learning environment for all. 
