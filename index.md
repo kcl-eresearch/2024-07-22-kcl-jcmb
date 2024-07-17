@@ -428,6 +428,14 @@ please preview your site before committing, and make sure to run
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
+<p>
+  If you have any trouble with the setup process, <a href="#contact">send us an email</a> or come a little early on Monday morning.
+  Someone will be there from 9am to help with installation issues.
+</p>
+<p>
+  If you have a King's managed SOE laptop and you need help with software installation, please <a href="https://kcl-dwp.onbmc.com/dwp/app/#/itemprofile/309">submit a ticket</a> to King's IT.
+  If you then <a href="#contact">email us</a> with the ticket number, we can help make sure it gets to the right team within IT.
+</p>
 
 {% comment %}
 For online workshops, the section below provides:
